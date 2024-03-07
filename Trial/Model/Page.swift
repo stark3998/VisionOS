@@ -11,12 +11,14 @@ import SwiftUI
 enum Page: String, CaseIterable, Identifiable {
     
     case assignments
+    case files
     
     var id: String { self.rawValue }
     
     var title: String {
         switch self {
         case .assignments: "Assignments"
+        case .files: "Files"
         }
     }
     
@@ -24,6 +26,8 @@ enum Page: String, CaseIterable, Identifiable {
         switch self {
         case .assignments:
             "textformat.size"
+        case .files:
+            "filemenu.and.selection"
         }
     }
     
@@ -32,6 +36,8 @@ enum Page: String, CaseIterable, Identifiable {
         switch self {
         case .assignments:
             AssignmentView()
+        case .files:
+            FileView()
         }
     }
 }
