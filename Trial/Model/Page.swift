@@ -12,6 +12,8 @@ enum Page: String, CaseIterable, Identifiable {
     
     case assignments
     case files
+    case courses
+    case assignnew
     
     var id: String { self.rawValue }
     
@@ -19,6 +21,8 @@ enum Page: String, CaseIterable, Identifiable {
         switch self {
         case .assignments: "Assignments"
         case .files: "Files"
+        case .courses: "Courses"
+        case .assignnew: "Assignment New"
         }
     }
     
@@ -28,6 +32,10 @@ enum Page: String, CaseIterable, Identifiable {
             "textformat.size"
         case .files:
             "filemenu.and.selection"
+        case .courses:
+            "textformat.size"
+        case .assignnew:
+            "textformat.size"
         }
     }
     
@@ -38,6 +46,10 @@ enum Page: String, CaseIterable, Identifiable {
             AssignmentView()
         case .files:
             FileView()
+        case .assignnew:
+            AssignmentNewView()
+        case .courses:
+            CourseView()
         }
     }
 }

@@ -7,15 +7,15 @@
 
 import SwiftUI
 
-struct Item: Identifiable, Codable, Hashable {
-    var id: Int
-    var name: String
-    var description: String
-}
-
-struct LItem: Codable {
-    var assigns: [Item]
-}
+//struct Item: Identifiable, Codable, Hashable {
+//    var id: Int
+//    var name: String
+//    var description: String
+//}
+//
+//struct LItem: Codable {
+//    var assigns: [Item]
+//}
 
 struct Assignment: Identifiable, Codable, Hashable {
     var id: String
@@ -52,30 +52,65 @@ struct AssignmentView: View {
                                 openWindow(value: assignment)
                                 print("Text tapped for \(assignment.id)")
                             }) {
-                                VStack(alignment: .leading) {
+//                                VStack(alignment: .leading) 
+                                HStack {
                                     Text(assignment.id)
                                         .font(.headline)
-                                        .foregroundColor(.primary) // Ensure text color matches the rest of the list
-                                    Text(assignment.description!)
-                                        .font(.subheadline)
-                                        .foregroundColor(.gray)
-                                }
-                            }
-                        }
-                    }
+                                        .foregroundColor(.primary)
+                                    VStack {
+                                        DisclosureGroup {
+                                            HStack {
+//                                                Spacer(minLength: 100)
+                                                if assignment.description != nil {
+                                                    HTMLStringView(htmlContent: assignment.description!)
+                                                }
+                                                else {
+                                                    HTMLStringView(htmlContent: "assignment.description!")
+                                                }
+                                                //            Text(assignment.description!)
+                                                //                .padding()
+                                                Spacer()
+                                            }
+                                        } label: {
+                                            HStack {
+                                                Spacer()
+                                                Text("SHow Details")
+                                            }
+                                        }
+                                    } // End VStack
+                                    // Ensure text color matches the rest of the list
+//                                    Text(assignment.description!)
+//                                        .font(.subheadline)
+//                                        .foregroundColor(.gray)
+//                                    HStack {
+//                                        Spacer(minLength: 100)
+//                                        if assignment.description != nil {
+//                                            HTMLStringView(htmlContent: assignment.description!)
+//                                        }
+//                                        else {
+//                                            HTMLStringView(htmlContent: "assignment.description!")
+//                                        }
+//                                        //            Text(assignment.description!)
+//                                        //                .padding()
+//                                        Spacer()
+//                                    }
+                                } // End HStack
+                            } // End Button
+                        } // End VStack
+                    } // End list
                     .navigationBarTitle("Items")
 //                    .frame(maxWidth: .infinity)
                     Spacer()
-                }
+                } // End VStack
                 .onAppear(perform: loadData)
                 Spacer()
-            }
+            } // End HStack
             Spacer()
-            Button(action: showToolbar) {
-                Label("Show Toolbar", systemImage: "arrow.up")
-            }
-            Spacer()
-        }
+//            Button(action: showToolbar) {
+//                Label("Show Toolbar", systemImage: "arrow.up")
+//            }
+//            Spacer()
+        } // End VStack
     }
     
     func loadData() {
@@ -99,11 +134,11 @@ struct AssignmentView: View {
             }
         }
     
-    func openDetailWindow(item: Item) {
-            let activity = NSUserActivity(activityType: NSUserActivityTypeBrowsingWeb)
-            activity.userInfo = ["itemID": item.id] // Pass necessary information here
-            UIApplication.shared.requestSceneSessionActivation(nil, userActivity: activity, options: nil, errorHandler: nil)
-        }
+//    func openDetailWindow(item: Item) {
+//            let activity = NSUserActivity(activityType: NSUserActivityTypeBrowsingWeb)
+//            activity.userInfo = ["itemID": item.id] // Pass necessary information here
+//            UIApplication.shared.requestSceneSessionActivation(nil, userActivity: activity, options: nil, errorHandler: nil)
+//        }
     
     func showToolbar() {
         showSidebar = .doubleColumn

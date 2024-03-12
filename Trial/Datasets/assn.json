@@ -1,0 +1,1332 @@
+{
+    "courses": [
+        {
+            "id": 56554,
+            "name": "COMPSCI 231P LEC A: PARL DIST COMP PROF (35230)",
+            "assignments": {
+                "pending": [],
+                "completed": [
+                    {
+                        "id": 1258096,
+                        "name": "Assignment Name: Hw1 - Simulator Groups",
+                        "created_at": "2023-10-05T06:57:55Z",
+                        "due_at": "2023-10-14T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/56554/assignments/1258096",
+                        "description": "<p>Form your 3-person groups here:&nbsp;<a class=\"inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/groups?wrap=1#tab-26380\" target=\"_blank\">Hw1 - Simulator Groups</a>. <strong>FIND TWO PARTNERS, AND <span style=\"text-decoration: underline;\">ONLY THEN</span> YOU ALL SIGN-UP ON A TEAM.</strong></p>\n<p>Specification: <a id=\"23986009\" class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/23986009?verifier=9r6HQ1NqLdrvXXKop29rHAD1gbhIAcU5q78XvGKG&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"true\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/23986009\" data-api-returntype=\"File\">hw1_simulator.pdf</a></p>\n<p>Code template: <a id=\"23986011\" class=\"instructure_file_link inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24006692?verifier=4QHQInLucOLZCS0gOypYzy0GlGvSudb3e4EZqzcd&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24006692\" data-api-returntype=\"File\">hw1_simulator_template.zip</a></p>\n<p>Grading TA: <a class=\"inline_disabled\" href=\"mailto:parraca+cs231p@uci.edu\" target=\"_blank\">Claudio Parra</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrase: How can you form a 3-person group for the assignment? <br>HTML links extracted:<br>1. https://canvas.eee.uci.edu/courses/56554/groups?wrap=1#tab-26380  <br>2. https://canvas.eee.uci.edu/courses/56554/files/23986009?verifier=9r6HQ1NqLdrvXXKop29rHAD1gbhIAcU5q78XvGKG&wrap=1  <br>3. https://canvas.eee.uci.edu/courses/56554/files/24006692?verifier=4QHQInLucOLZCS0gOypYzy0GlGvSudb3e4EZqzcd&wrap=1<br>4. mailto:parraca+cs231p@uci.edu",
+                        "one_line_summary": "You need to form a 3-person group for Hw1 - Simulator Groups on Canvas and sign up together.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/56554/assignments/1258096/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1259476,
+                        "name": "Assignment Name: Hw2 - OSI Groups",
+                        "created_at": "2023-10-09T18:59:53Z",
+                        "due_at": "2023-10-24T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/56554/assignments/1259476",
+                        "description": "<p>Form your 2-persons groups here: <a class=\"inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26641\" target=\"_blank\">Hw2 - OSI Groups</a>. <strong>FIND ONE PARTNER, AND <span style=\"text-decoration: underline;\">ONLY THEN</span> YOU TWO SIGN-UP ON A TEAM.</strong></p>\n<p>Specification: <a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"hw2_osi_model.pdf\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24032073?verifier=iftiWcngleU8rxZnYNJCssssyzuMbvvH53TObspy&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24032073\" data-api-returntype=\"File\">hw2_osi_model.pdf</a></p>\n<p>Grading TA: <a class=\"inline_disabled\" title=\"Link\" href=\"mailto:mtrifan+cs231p@uci.edu\" target=\"_blank\">Titus Trifan</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: How can you find a partner to sign-up on a team for Hw2 - OSI Groups?<br><br>Extracted HTML links: <br>1. Hw2 - OSI Groups: https://canvas.eee.uci.edu/courses/56554/groups#tab-26641<br>2. hw2_osi_model.pdf: https://canvas.eee.uci.edu/courses/56554/files/24032073?verifier=iftiWcngleU8rxZnYNJCssssyzuMbvvH53TObspy&wrap=1<br>3. Titus Trifan's email: mailto:mtrifan+cs231p@uci.edu",
+                        "one_line_summary": "Students must form 2-person groups for Hw2 and sign up as a team after finding a partner.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/56554/assignments/1259476/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1263569,
+                        "name": "Assignment Name: Hw3 - Prime Numbers Groups",
+                        "created_at": "2023-10-24T04:22:33Z",
+                        "due_at": "2023-10-31T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/56554/assignments/1263569",
+                        "description": "<p>Form your 2-person groups here: <a class=\"inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26649\" target=\"_blank\">Hw3 - Prime Numbers Groups</a>. <strong>FIND ONE PARTNER, AND <span style=\"text-decoration: underline;\">ONLY THEN</span> YOU BOTH SIGN-UP ON A TEAM.</strong></p>\n<p>Specification: <a id=\"24220204\" class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24220204?verifier=8DhiwSWYoYml5sECw1qzqOxThiautSsF6wojBMKS&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"true\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24220204\" data-api-returntype=\"File\">hw3_prime_numbers.pdf</a></p>\n<p>Code template: <a id=\"24220206\" class=\"instructure_file_link inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24220206?verifier=kxEcFWnd4fEktBQw4AghdiKG5NaNtCOjyAMrRxjS&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24220206\" data-api-returntype=\"File\">hw3_prime_template.zip</a></p>\n<p>Grading TA: <a class=\"inline_disabled\" href=\"mailto:parraca+cs231p@uci.edu\" target=\"_blank\">Claudio Parra</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrase the following question to make it simple and extract all html links and show separately:<br>Form your 2-person groups here for Hw3 - Prime Numbers Groups. FIND ONE PARTNER, AND ONLY THEN YOU BOTH SIGN-UP ON A TEAM.<br>Specification: hw3_prime_numbers.pdf<br>Code template: hw3_prime_template.zip<br>Grading TA: Claudio Parra<br>HTML Links:<br>- Hw3 - Prime Numbers Groups: https://canvas.eee.uci.edu/courses/56554/groups#tab-26649<br>- hw3_prime_numbers.pdf: https://canvas.eee.uci.edu/courses/56554/files/24220204?verifier=8DhiwSWYoYml5sECw1qzqOxThiautSsF6wojBMKS&amp;wrap=1<br>- hw3_prime_template.zip: https://canvas.eee.uci.edu/courses/56554/files/24220206?verifier=kxEcFWnd4fEktBQw4AghdiKG5NaNtCOjyAMrRxjS&amp;wrap=1<br>- Claudio Parra's email: mailto:parraca+cs231p@uci.edu",
+                        "one_line_summary": "Form a 2-person group for the Hw3 - Prime Numbers assignment and sign up together on a team following the instructions provided.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/56554/assignments/1263569/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1264370,
+                        "name": "To form your 2-person groups for the HW4 - Loop Unfold assignment, you need to find one partner and then both sign up on a team. The assignment specification can be found in the hw4_loop_unfolding.pdf file at this link: [hw4_loop_unfolding.pdf](https://canvas.eee.uci.edu/courses/56554/files/24321290?verifier=tSWAG662CyOO8eMOsvaFhbTGkZjTjSESfrkpOMWD&wrap=1). Additionally, the code template is available in the hw4_loop_unfold.zip file at this link: [hw4_loop_unfold.zip](https://canvas.eee.uci.edu/courses/56554/files/24253074?verifier=qo6nKqVpNTegJNjtFgeDtvl6M9SShsUQEyKCI6Wc&wrap=1). The assignment will be graded by TA Titus Trifan, and you can contact him at [mtrifan+cs231p@uci.edu](mailto:mtrifan+cs231p@uci.edu) for any grading related queries.",
+                        "created_at": "2023-10-26T17:45:51Z",
+                        "due_at": "2023-11-07T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/56554/assignments/1264370",
+                        "description": "<p>Form your 2-person groups here: <a class=\"inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26650\" target=\"_blank\">Hw4 - Loop Unfold Groups</a>. <strong>FIND ONE PARTNER, AND <span style=\"text-decoration: underline;\">ONLY THEN</span> YOU BOTH SIGN-UP ON A TEAM.</strong></p>\n<p>Specification: <a id=\"24253063\" class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24321290?verifier=tSWAG662CyOO8eMOsvaFhbTGkZjTjSESfrkpOMWD&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"true\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24321290\" data-api-returntype=\"File\">hw4_loop_unfolding.pdf</a></p>\n<p>Code template: <a id=\"24253074\" class=\"instructure_file_link inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24253074?verifier=qo6nKqVpNTegJNjtFgeDtvl6M9SShsUQEyKCI6Wc&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24253074\" data-api-returntype=\"File\">hw4_loop_unfold.zip</a></p>\n<p>Grading TA: <a class=\"inline_disabled\" href=\"mailto:mtrifan+cs231p@uci.edu\" target=\"_blank\">Titus Trifan</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased Question: Please form your 2-person groups for Hw4 - Loop Unfold by following the link provided. Once you have found a partner, both of you should sign up on a team. <br><br>HTML Links:<br>- Form your 2-person groups here: <a href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26650\" target=\"_blank\">Hw4 - Loop Unfold Groups</a><br>- Specification: <a href=\"https://canvas.eee.uci.edu/courses/56554/files/24321290?verifier=tSWAG662CyOO8eMOsvaFhbTGkZjTjSESfrkpOMWD&amp;wrap=1\" target=\"_blank\">hw4_loop_unfolding.pdf</a><br>- Code template: <a href=\"https://canvas.eee.uci.edu/courses/56554/files/24253074?verifier=qo6nKqVpNTegJNjtFgeDtvl6M9SShsUQEyKCI6Wc&amp;wrap=1\" target=\"_blank\">hw4_loop_unfold.zip</a><br>- Grading TA: <a href=\"mailto:mtrifan+cs231p@uci.edu\" target=\"_blank\">Titus Trifan</a>",
+                        "one_line_summary": "Form 2-person groups for <a href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26650\" target=\"_blank\">Hw4 - Loop Unfold Groups</a>, find a partner and sign up as a team.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/56554/assignments/1264370/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1265012,
+                        "name": "The assignment name is \"Hw5 - Granularity\". The assignment requires forming 2-person groups. Students need to find one partner and then both sign up on a team. The specification document for the assignment is \"hw5_granularity.pdf\" and the code template is \"hw5_granularity.zip\". The grading TA for the assignment is Claudio Parra. Students should submit their assignment via Gradescope with the required files: solution.zip and exercises.pdf.",
+                        "created_at": "2023-10-30T18:28:30Z",
+                        "due_at": "2023-11-14T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/56554/assignments/1265012",
+                        "description": "<p>Form your 2-person groups here: <a class=\"inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26798\" target=\"_blank\">Hw5 - Granularity</a>. <strong>FIND ONE PARTNER, AND <span style=\"text-decoration: underline;\">ONLY THEN</span> YOU BOTH SIGN-UP ON A TEAM.</strong></p>\n<p>Specification: <a id=\"24302931\" class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24334780?verifier=eV9bspMVHKEbhC6n5PMnPi0W7mJRAbA1xthKd1m6&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"true\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24334780\" data-api-returntype=\"File\">hw5_granularity.pdf</a></p>\n<p>Code template: <a id=\"24302951\" class=\"instructure_file_link inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24302951?verifier=FwCdunpMkxAubJ1Xo0JQ8f0Mt0PY3YsK8ZEBokj5&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24302951\" data-api-returntype=\"File\">hw5_granularity.zip</a></p>\n<p>Grading TA: <a class=\"inline_disabled\" href=\"mailto:parraca+cs231p@uci.edu\" target=\"_blank\">Claudio Parra</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrase: Coordinate with a partner to form your 2-person group for Hw5 - Granularity. Once you have found a partner, both of you sign up on a team together.<br><br>HTML Links:<br>- Hw5 - Granularity: https://canvas.eee.uci.edu/courses/56554/groups#tab-26798<br>- Specification: https://canvas.eee.uci.edu/courses/56554/files/24334780?verifier=eV9bspMVHKEbhC6n5PMnPi0W7mJRAbA1xthKd1m6&wrap=1<br>- Code template: https://canvas.eee.uci.edu/courses/56554/files/24302951?verifier=FwCdunpMkxAubJ1Xo0JQ8f0Mt0PY3YsK8ZEBokj5&wrap=1<br>- Grading TA email: mailto:parraca+cs231p@uci.edu",
+                        "one_line_summary": "Summary: Form a 2-person group for Hw5 - Granularity on Canvas and submit the assignment according to the specifications provided.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/56554/assignments/1265012/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1267709,
+                        "name": "Assignment Name: Hw6 - Shear and Bitonic Sort\n\nThis assignment requires students to form 2-person groups by finding a partner and signing up on a team. The specification for the assignment can be found in the document \"hw6_shear_bitonic_crossbar.pdf\". The grading TA for this assignment is Titus Trifan. Students are reminded to follow the guidelines for collaboration and submission mentioned in the homework policy. All assignments must be submitted via Gradescope by 11:59:59 PM Pacific Time on the due date. More details about the project will be provided later, with most of the work expected after week 5. Students are required to submit a short report at the end of the quarter.",
+                        "created_at": "2023-11-08T22:43:17Z",
+                        "due_at": "2023-11-21T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/56554/assignments/1267709",
+                        "description": "<p>Form your 2-person groups here: <a class=\"inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26652\" target=\"_blank\">Hw6 - Shear and Bitonic Sort</a>. <strong>FIND ONE PARTNER, AND <span style=\"text-decoration: underline;\">ONLY THEN</span> YOU BOTH SIGN-UP ON A TEAM.</strong></p>\n<p>Specification: <a id=\"24416864\" class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24416864?verifier=lxSLLG8ZGGqRgVAZuc0HWZhaIbr2J74Agh93IfVp&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"true\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24416864\" data-api-returntype=\"File\">hw6_shear_bitonic_crossbar.pdf</a></p>\n<p>Grading TA: <a class=\"inline_disabled\" href=\"mailto:mtrifan+cs231p@uci.edu\" target=\"_blank\">Titus Trifan</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: Form your groups of 2 for \"Hw6 - Shear and Bitonic Sort\" on Canvas. Once you find a partner, both of you should sign up on a team.<br><br>HTML links extracted:<br>1. Hw6 - Shear and Bitonic Sort: https://canvas.eee.uci.edu/courses/56554/groups#tab-26652<br>2. Specification: https://canvas.eee.uci.edu/courses/56554/files/24416864?verifier=lxSLLG8ZGGqRgVAZuc0HWZhaIbr2J74Agh93IfVp&amp;wrap=1<br>3. Grading TA email: mailto:mtrifan+cs231p@uci.edu",
+                        "one_line_summary": "Form a 2-person group for Hw6 - Shear and Bitonic Sort, sign up on a team once you find a partner.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/56554/assignments/1267709/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1269084,
+                        "name": "The given query is asking students to form 2-person groups for assignment Hw7 - SchedFrame. Students are required to find one partner and then both sign up as a team using the link provided: https://canvas.eee.uci.edu/courses/56554/groups#tab-26650. The assignment specification can be found in the document hw7_sched_framework.pdf. The grading TA for this assignment is Titus Trifan and students can contact him via email at mtrifan+cs231p@uci.edu. Students are reminded to follow the submission guidelines outlined in the syllabus when completing this assignment.",
+                        "created_at": "2023-11-14T18:17:05Z",
+                        "due_at": "2023-11-28T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/56554/assignments/1269084",
+                        "description": "<p>Form your 2-person groups here: <a class=\"inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26650\" target=\"_blank\">Hw7 - SchedFrame</a>. <strong>FIND ONE PARTNER, AND <span style=\"text-decoration: underline;\">ONLY THEN</span> YOU BOTH SIGN-UP ON A TEAM.</strong></p>\n<p>Specification: <a id=\"24481121\" class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24486295?verifier=IE1ANVVPRiyMZwEvxJN0fPGZI1XdI5zpZngk08PT&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"true\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24486295\" data-api-returntype=\"File\">hw7_sched_framework.pdf</a></p>\n<p>Grading TA: <a class=\"inline_disabled\" href=\"mailto:mtrifan+cs231p@uci.edu\" target=\"_blank\">Titus Trifan</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: Please find a partner and sign up together as a team for Hw7 - SchedFrame.<br><br>HTML links:<br>- Canvas: https://canvas.eee.uci.edu/courses/56554/groups#tab-26650<br>- Specification: https://canvas.eee.uci.edu/courses/56554/files/24486295?verifier=IE1ANVVPRiyMZwEvxJN0fPGZI1XdI5zpZngk08PT&wrap=1<br>- Grading TA email: mailto:mtrifan+cs231p@uci.edu",
+                        "one_line_summary": "The query is requesting students to form 2-person groups for the project titled \"Hw7 - SchedFrame\" and sign up on a team after finding a partner. The project details and specification are provided in the linked documents on Canvas. The grading TA for the project is Titus Trifan.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/56554/assignments/1269084/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1273207,
+                        "name": "The assignment name is Hw8 - LoadBalancing. Students must form 2-person groups by following the link provided (https://canvas.eee.uci.edu/courses/56554/groups#tab-26654) and signing up with a partner. The assignment specification can be found in the hw8_load_balancing.pdf linked in the specification section. The grading TA for this assignment is Titus Trifan (email: mtrifan+cs231p@uci.edu).",
+                        "created_at": "2023-11-21T23:19:50Z",
+                        "due_at": "2023-12-05T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/56554/assignments/1273207",
+                        "description": "<p>Form your 2-person groups here: <a class=\"inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/groups#tab-26654\" target=\"_blank\">Hw8 - LoadBalancing</a>. <strong>FIND ONE PARTNER, AND <span style=\"text-decoration: underline;\">ONLY THEN</span> YOU BOTH SIGN-UP ON A TEAM.</strong></p>\n<p>Specification: <a id=\"24578868\" class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Link\" href=\"https://canvas.eee.uci.edu/courses/56554/files/24578868?verifier=hxptryRD9r0tI2VtDVRAT8dfQRdQzPfpzePZJgkU&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"true\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/56554/files/24578868\" data-api-returntype=\"File\">hw8_load_balancing.pdf</a></p>\n<p>Grading TA: <a class=\"inline_disabled\" href=\"mailto:mtrifan+cs231p@uci.edu\" target=\"_blank\">Titus Trifan</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: Form your 2-person groups for Hw8 - LoadBalancing. FIND ONE PARTNER, AND ONLY THEN YOU BOTH SIGN-UP ON A TEAM.<br><br>HTML Links:<br>1. Link for forming groups: https://canvas.eee.uci.edu/courses/56554/groups#tab-26654<br>2. Specification file: https://canvas.eee.uci.edu/courses/56554/files/24578868?verifier=hxptryRD9r0tI2VtDVRAT8dfQRdQzPfpzePZJgkU&wrap=1<br>3. Grading TA email: mailto:mtrifan+cs231p@uci.edu",
+                        "one_line_summary": "Form groups for the Load Balancing project, find one partner and sign up as a team.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/56554/assignments/1273207/submissions?zip=1",
+                        "points_possible": 100.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 57566,
+            "name": "COMPSCI 238P LEC A: OPERATING SYSTEMS (35240)",
+            "assignments": {
+                "pending": [],
+                "completed": [
+                    {
+                        "id": 1281639,
+                        "name": "The name of the assignment is not provided in the given context. It seems that the assignment may not have a specific name mentioned.",
+                        "created_at": "2023-12-10T02:44:01Z",
+                        "due_at": "2023-12-14T16:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/57566/assignments/1281639",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and extract all HTML links to display separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/57566/quizzes/303284/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1258740,
+                        "name": "The assignment can be named \"Compile Project Upload\"",
+                        "created_at": "2023-10-06T20:48:52Z",
+                        "due_at": "2023-10-16T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/57566/assignments/1258740",
+                        "description": "<p>Upload all the files required to compile your project as a single zip file.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "What files do you need to upload for your project as a single zip file? <br><br>HTML Links:<br>- Canvas: https://canvas.eee.uci.edu/courses/51437<br>- Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "The project requires uploading all files necessary for compilation in a single zip file, with more details to come after week 5 and a short report due at the end of the quarter.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/57566/assignments/1258740/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1261479,
+                        "name": "The assignment can be named \"Project Compilation File Submission Assignment\"",
+                        "created_at": "2023-10-16T18:46:32Z",
+                        "due_at": "2023-10-30T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/57566/assignments/1261479",
+                        "description": "<p><span>Upload all the files required to compile your project as a single zip file.</span></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Can you please submit all the necessary files for your project in a single zip file? <br><br>HTML links extracted:<br>1. Canvas: https://canvas.eee.uci.edu/courses/51437<br>2. Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "All project files needed for compilation must be uploaded as one zip file.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/57566/assignments/1261479/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1268279,
+                        "name": "The assignment can be named \"Project Compilation File Submission\"",
+                        "created_at": "2023-11-10T06:18:25Z",
+                        "due_at": "2023-11-16T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/57566/assignments/1268279",
+                        "description": "<p>Upload all the files required to compile your project as a single zip file.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "How do you submit all project files as a single zip file? <br><br>HTML links:<br>- Canvas: https://canvas.eee.uci.edu/courses/51437<br>- Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "The project requires all files for compilation to be uploaded as a single zip file, with more details to follow after week 5 and a short report due at the end of the quarter with team sizes limited to 2-3 members.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/57566/assignments/1268279/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1268280,
+                        "name": "The assignment can be named \"Project Zip File Compilation Upload\".",
+                        "created_at": "2023-11-10T06:19:50Z",
+                        "due_at": "2023-12-04T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/57566/assignments/1268280",
+                        "description": "<p>Upload all the files required to compile your project as a single zip file.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "What is the requirement for submitting all project files in a single zip file? <br><br>HTML links:<br>- Canvas: https://canvas.eee.uci.edu/courses/51437<br>- Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "Students must upload all project files as a single zip file for compilation.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/57566/assignments/1268280/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1268281,
+                        "name": "The name of the assignment could be \"Compile Project Upload\"",
+                        "created_at": "2023-11-10T06:21:13Z",
+                        "due_at": "2023-12-11T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/57566/assignments/1268281",
+                        "description": "<p>Upload all the files required to compile your project as a single zip file.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "How should I submit my project files in order to compile them correctly? <br><br>HTML links extracted:<br>- Canvas: https://canvas.eee.uci.edu/courses/51437<br>- Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "The required files for the project should be uploaded as a single zip file, according to the submission guidelines provided in the context.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/57566/assignments/1268281/submissions?zip=1",
+                        "points_possible": 100.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 58550,
+            "name": "COMPSCI 250P LEC A: COMP SYS ARCHITECT (35250)",
+            "assignments": {
+                "pending": [],
+                "completed": [
+                    {
+                        "id": 1263882,
+                        "name": "The given assignment can be named as CS250P_HW1.",
+                        "created_at": "2023-10-25T02:35:53Z",
+                        "due_at": "2023-11-13T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1263882",
+                        "description": "<p><a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"CS250P_HW1.pdf\" href=\"https://canvas.eee.uci.edu/courses/58550/files/24232467?verifier=5lHaz3rzuVQfnhrXonOZPcFfmcOx8p9dsxEnzZOR&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/58550/files/24232467\" data-api-returntype=\"File\">CS250P_HW1.pdf</a></p>\n<p>&nbsp;</p>\n<p>Good luck!</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: Can you please simplify the following question and extract all the HTML links included?<br><br>HTML links extracted:<br>1. Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus<br>2. Ed Discussion (link available via Canvas): <br>3. Canvas: https://canvas.eee.uci.edu/courses/51437<br>4. CS250P_HW1.pdf - Link: https://canvas.eee.uci.edu/courses/58550/files/24232467?verifier=5lHaz3rzuVQfnhrXonOZPcFfmcOx8p9dsxEnzZOR&amp;wrap=1",
+                        "one_line_summary": "CS250P_HW1.pdf is the first homework assignment for CS 250P Machine Learning and Data Mining with Professor Xiaohui Xie in Winter 2023.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1263882/submissions?zip=1",
+                        "points_possible": 10.0
+                    },
+                    {
+                        "id": 1277024,
+                        "name": "The assignment name is \"CS25P_HW2.pdf\".",
+                        "created_at": "2023-11-30T07:39:10Z",
+                        "due_at": "2023-12-14T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1277024",
+                        "description": "<p><a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"CS25P_HW2.pdf\" href=\"https://canvas.eee.uci.edu/courses/58550/files/24677269?verifier=DqlSiZjmHCEa1N9nC50rjAN25BM6rEAzmbl48Ckx&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/58550/files/24677269\" data-api-returntype=\"File\">CS25P_HW2.pdf</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: How can I access the CS25P_HW2.pdf file for my assignment?<br>HTML Links:<br>1. CS25P_HW2.pdf - https://canvas.eee.uci.edu/courses/58550/files/24677269?verifier=DqlSiZjmHCEa1N9nC50rjAN25BM6rEAzmbl48Ckx&amp;wrap=1",
+                        "one_line_summary": "Homework 2 for CS 273P Machine Learning and Data Mining with Professor Xiaohui Xie can be found in the CS25P_HW2.pdf file via the Canvas link provided.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1277024/submissions?zip=1",
+                        "points_possible": 10.0
+                    },
+                    {
+                        "id": 1289867,
+                        "name": "The assignment can be named as \"CS250P Homework 1\".",
+                        "created_at": "2023-12-21T01:19:16Z",
+                        "due_at": "2023-11-13T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1289867",
+                        "description": "<p><a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"CS250P_HW1.pdf\" href=\"https://canvas.eee.uci.edu/courses/58550/files/24232467?verifier=5lHaz3rzuVQfnhrXonOZPcFfmcOx8p9dsxEnzZOR&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/58550/files/24232467\" data-api-returntype=\"File\">CS250P_HW1.pdf</a></p>\n<p>&nbsp;</p>\n<p>Good luck!</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: What is the link for the CS250P_HW1.pdf file?<br><br>HTML Links extracted:<br>1. CS250P_HW1.pdf: https://canvas.eee.uci.edu/courses/58550/files/24232467?verifier=5lHaz3rzuVQfnhrXonOZPcFfmcOx8p9dsxEnzZOR&wrap=1",
+                        "one_line_summary": "The query is asking for a 1 line summary of \"CS250P_HW1.pdf\" for the CS 273P Machine Learning and Data Mining course in Winter 2023 taught by Professor Xiaohui Xie.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1289867/submissions?zip=1",
+                        "points_possible": 10.0
+                    },
+                    {
+                        "id": 1289868,
+                        "name": "The name of the assignment is \"CS25P_HW2\"",
+                        "created_at": "2023-12-21T01:19:20Z",
+                        "due_at": "2023-12-14T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1289868",
+                        "description": "<p><a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"CS25P_HW2.pdf\" href=\"https://canvas.eee.uci.edu/courses/58550/files/24677269?verifier=DqlSiZjmHCEa1N9nC50rjAN25BM6rEAzmbl48Ckx&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/58550/files/24677269\" data-api-returntype=\"File\">CS25P_HW2.pdf</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: How can I access and download the CS25P_HW2.pdf file for Homework 2?<br><br>HTML links extracted:<br>1. CS25P_HW2.pdf - https://canvas.eee.uci.edu/courses/58550/files/24677269?verifier=DqlSiZjmHCEa1N9nC50rjAN25BM6rEAzmbl48Ckx&wrap=1",
+                        "one_line_summary": "The CS25P_HW2.pdf document contains the homework assignment for CS 273P Machine Learning and Data Mining.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1289868/submissions?zip=1",
+                        "points_possible": 10.0
+                    },
+                    {
+                        "id": 1287594,
+                        "name": "Assignment Title: Intro to Basic Terminology and Notations - Programming Assignments 5",
+                        "created_at": "2023-12-19T01:47:54Z",
+                        "due_at": null,
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1287594",
+                        "description": "",
+                        "sunmmary": "How can I simplify the question and extract all HTML links to display separately?",
+                        "one_line_summary": "Machine learning is the utilization of computer science and mathematical concepts to learn from data and enhance performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1287594/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1287595,
+                        "name": "Assignment Naming: \"Introduction to Basic Terminology and Notations Programming Assignment\"",
+                        "created_at": "2023-12-19T01:48:10Z",
+                        "due_at": null,
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1287595",
+                        "description": "",
+                        "sunmmary": "How can I extract all html links from the source code using machine translation and object recognition for my programming assignments?",
+                        "one_line_summary": "Machine learning is a field that combines computer science and math to learn from data and improve performance through supervised, unsupervised, semi-supervised, or reinforcement learning techniques.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1287595/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1289864,
+                        "name": "Assignment Title: \"Introduction to Basic Terminology and Notations\"",
+                        "created_at": "2023-12-21T01:07:14Z",
+                        "due_at": null,
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1289864",
+                        "description": "",
+                        "sunmmary": "How can we simplify the question to extract all HTML links and display them separately?",
+                        "one_line_summary": "Machine learning is the use of computer science, mathematics, and data to improve performance through supervised, unsupervised, semi-supervised, or reinforcement learning techniques.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1289864/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1289866,
+                        "name": "Assignment Name: Basic ML Techniques in Python",
+                        "created_at": "2023-12-21T01:08:28Z",
+                        "due_at": null,
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1289866",
+                        "description": "",
+                        "sunmmary": "How can I extract and separate all HTML links from the source code provided in the programming assignments for machine translation and object recognition using Python language?",
+                        "one_line_summary": "Machine learning involves using computer science and math to learn from data and improve performance through supervised, unsupervised, semi-supervised, or reinforcement learning techniques.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1289866/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1281540,
+                        "name": "Assignment Name: Exploring the Advantages of Amazon's Graviton 4 Cloud Processor",
+                        "created_at": "2023-12-09T13:10:30Z",
+                        "due_at": "2023-12-16T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58550/assignments/1281540",
+                        "description": "<p>Please research/write a report on the following topic, .5 page maximum.</p>\n<p>You may be granted a sub-letter grade increase (A- to A0, for example) if the instructors learn something new from it!</p>\n<p>&nbsp;</p>\n<p>Amazon has recently released a new cloud processor, Graviton 4. What makes its advertised performance so much better than the conventional x86 processor?</p>\n<ul>\n<li>did single-thread performance increase? Why?</li>\n<li>did memory bandwidth increase? how?</li>\n<li>did parallelism increase? how?</li>\n<li>What other factors?</li>\n<li>Do you think all machines in AWS can switch to Graviton? Why or why not?</li>\n</ul>\n<p>&nbsp;</p>\n<p>We are using plagiarism detection using turnitin.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased Question: Please research and write a report on the performance differences between Amazon's Graviton 4 cloud processor and the conventional x86 processor. What factors contribute to Graviton 4's superior performance, including single-thread performance, memory bandwidth, and parallelism? Additionally, discuss whether all machines in AWS can potentially switch to Graviton and provide reasons for your answer.<br><br>HTML Links:<br>- https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js",
+                        "one_line_summary": "Summary: Investigating the performance improvements of Amazon's new cloud processor, Graviton 4, compared to conventional x86 processors.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58550/assignments/1281540/submissions?zip=1",
+                        "points_possible": 10.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 61989,
+            "name": "COMPSCI 295P LEC A: KEYSTONE PROJ CS (35335)",
+            "assignments": {
+                "pending": [],
+                "completed": []
+            }
+        },
+        {
+            "id": 60908,
+            "name": "CS 261P Winter 2024",
+            "assignments": {
+                "pending": [
+                    {
+                        "id": 1315548,
+                        "name": "The assignment can be named \"Object Recognition using Machine Learning Techniques\".",
+                        "created_at": "2024-01-08T07:08:37Z",
+                        "due_at": "2024-03-08T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315548",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and extract all HTML links separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features in data without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315548/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315550,
+                        "name": "Object Recognition with Machine Learning Techniques",
+                        "created_at": "2024-01-08T07:09:11Z",
+                        "due_at": "2024-03-13T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315550",
+                        "description": null,
+                        "sunmmary": "Please rephrase the question in a simpler way and extract any HTML links to display separately.",
+                        "one_line_summary": "Unsupervised learning involves finding patterns in data without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315550/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315552,
+                        "name": "Assignment: Object Recognition Using Machine Learning Techniques",
+                        "created_at": "2024-01-08T07:10:00Z",
+                        "due_at": "2024-03-15T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315552",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and extract all HTML links to display separately?",
+                        "one_line_summary": "No known target values in an unsupervised learning problem, making prediction impossible.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315552/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315557,
+                        "name": "The assignment does not have a specific name mentioned in the contexts provided. It seems to be a general programming assignment related to source code in Python for object recognition using machine learning techniques.",
+                        "created_at": "2024-01-08T07:15:09Z",
+                        "due_at": "2024-03-13T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315557",
+                        "description": null,
+                        "sunmmary": "Please rewrite the question in a simpler way and extract all HTML links to display separately.",
+                        "one_line_summary": "None typically refers to a lack of target values in unsupervised learning, resulting in no specific predictions being made.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315557/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1293333,
+                        "name": "Assignment Name: Introduction to Basic Terminology and Notations",
+                        "created_at": "2023-12-24T21:36:00Z",
+                        "due_at": "2024-03-21T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293333",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links from a webpage and display them separately?",
+                        "one_line_summary": "Machine learning is a field that combines computer science and math to learn from data and improve performance, utilizing supervised, unsupervised, semi-supervised, and reinforcement learning techniques.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293333/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1293283,
+                        "name": "Assignment: Basic Programming Terminology and Notations",
+                        "created_at": "2023-12-24T21:35:47Z",
+                        "due_at": "2024-03-22T17:30:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293283",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links from a given text and display them separately?",
+                        "one_line_summary": "Machine learning is the use of computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293283/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1315575,
+                        "name": "Based on the provided contexts, it appears that the assignment is related to programming in Python for object recognition using machine learning techniques. As there is no specific name mentioned for the assignment, it can be referred to as \"Object Recognition Programming Assignment\" or simply \"ML Object Recognition Assignment.\"",
+                        "created_at": "2024-01-08T07:20:13Z",
+                        "due_at": "2024-03-07T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315575",
+                        "description": null,
+                        "sunmmary": "Could you simplify the question and provide all HTML links separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315575/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315576,
+                        "name": "\"Object recognition using Machine Learning techniques\"",
+                        "created_at": "2024-01-08T07:20:16Z",
+                        "due_at": "2024-03-12T18:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315576",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and extract all HTML links to show them separately?",
+                        "one_line_summary": "A type of prediction problem where there are no known target values and therefore nothing to predict, often used for discovering patterns or explaining features in data.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315576/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315577,
+                        "name": "Based on the provided contexts, the assignment could potentially be named \"Image Recognition Using Machine Learning Techniques\" or \"Introduction to Object Recognition with Python Programming\".",
+                        "created_at": "2024-01-08T07:20:19Z",
+                        "due_at": "2024-03-14T18:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315577",
+                        "description": null,
+                        "sunmmary": "Please provide a simplified version of the question and extract all HTML links to display separately.",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315577/submissions?zip=1",
+                        "points_possible": 1.0
+                    }
+                ],
+                "completed": [
+                    {
+                        "id": 1293293,
+                        "name": "Assignment: Intro to Basic Terminology and Notations",
+                        "created_at": "2023-12-24T21:35:49Z",
+                        "due_at": "2024-01-10T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293293",
+                        "description": "",
+                        "sunmmary": "How can we simplify the question and extract all HTML links to display them separately?",
+                        "one_line_summary": "Machine learning is the combination of computer science and math used to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293293/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293301,
+                        "name": "Assignment Naming Guidelines and Policies",
+                        "created_at": "2023-12-24T21:35:51Z",
+                        "due_at": "2024-01-12T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293301",
+                        "description": "",
+                        "sunmmary": "How can we extract all HTML links from a webpage and display them separately?",
+                        "one_line_summary": "Machine learning is the process of using data to improve performance through computer science, math, and statistical analysis.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293301/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293302,
+                        "name": "The assignment can be named as \"Programming Assignment Submission Guidelines and Homework Policy.\"",
+                        "created_at": "2023-12-24T21:35:52Z",
+                        "due_at": "2024-01-17T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293302",
+                        "description": "",
+                        "sunmmary": "How can we extract and display all HTML links separately from the given source code snippet in Python?",
+                        "one_line_summary": "Machine learning is the practice of using computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293302/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293303,
+                        "name": "Programming Assignment 5",
+                        "created_at": "2023-12-24T21:35:52Z",
+                        "due_at": "2024-01-19T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293303",
+                        "description": "",
+                        "sunmmary": "How can I simplify the question and extract all HTML links to display them separately?",
+                        "one_line_summary": "Machine learning is a field that combines computer science and math to learn from data and improve performance using techniques such as supervised, unsupervised, semi-supervised, and reinforcement learning.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293303/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293304,
+                        "name": "The assignment can be named \"Intro to Basic Terminology and Notations Programming Assignment 5\".",
+                        "created_at": "2023-12-24T21:35:52Z",
+                        "due_at": "2024-01-24T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293304",
+                        "description": "",
+                        "sunmmary": "How can we simplify the question and extract all HTML links separately?",
+                        "one_line_summary": "Machine learning is the utilization of computer science and mathematical principles to learn from data and enhance performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293304/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293305,
+                        "name": "Basic Machine Learning Techniques and Notations Tutorial",
+                        "created_at": "2023-12-24T21:35:53Z",
+                        "due_at": "2024-01-26T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293305",
+                        "description": "",
+                        "sunmmary": "How can I simplify the question and extract all HTML links separately?",
+                        "one_line_summary": "Machine learning is the process of using computer science and math to learn from data in order to improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293305/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293306,
+                        "name": "The assignment can be named \"Programming Assignment 5: Introduction to Machine Learning Techniques\"",
+                        "created_at": "2023-12-24T21:35:53Z",
+                        "due_at": "2024-01-31T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293306",
+                        "description": "",
+                        "sunmmary": "How can I extract all html links from a source code using machine translation and object recognition techniques in Python for my programming assignments?",
+                        "one_line_summary": "Machine learning is the field of computer science and mathematics that focuses on learning from data to improve performance through techniques such as optimization and statistics.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293306/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293307,
+                        "name": "Basic Python Programming Assignment, Machine Learning Techniques Application Report_submission",
+                        "created_at": "2023-12-24T21:35:53Z",
+                        "due_at": "2024-02-02T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293307",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links from a given text and display them separately?",
+                        "one_line_summary": "Machine learning is the field of computer science and mathematics that focuses on learning from data to improve performance using techniques such as supervised, unsupervised, semi-supervised, and reinforcement learning.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293307/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293308,
+                        "name": "Programming Assignment 5 - Intro to Basic Terminology and Notations",
+                        "created_at": "2023-12-24T21:35:53Z",
+                        "due_at": "2024-02-07T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293308",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links from a given webpage and display them separately?",
+                        "one_line_summary": "Machine learning is the integration of computer science and mathematics to analyze data and enhance performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293308/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293295,
+                        "name": "Assignment Submission Guidelines",
+                        "created_at": "2023-12-24T21:35:50Z",
+                        "due_at": "2024-02-14T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293295",
+                        "description": "",
+                        "sunmmary": "Please rephrase the question to make it simpler and extract all HTML links to display separately.",
+                        "one_line_summary": "Machine learning is the process of using computer science and math to learn from data in order to improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293295/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293296,
+                        "name": "The assignment can be named \"Basic Terminology and Notations Programming Assignments\".",
+                        "created_at": "2023-12-24T21:35:50Z",
+                        "due_at": "2024-02-16T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293296",
+                        "description": "",
+                        "sunmmary": "How can I extract and display HTML links separately from a given text?",
+                        "one_line_summary": "Machine learning combines computer science and math to learn from data and improve performance using various types of learning methods such as supervised, unsupervised, semi-supervised, and reinforcement learning.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293296/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293297,
+                        "name": "Assignment Name: Programming Assignment 5",
+                        "created_at": "2023-12-24T21:35:50Z",
+                        "due_at": "2024-02-21T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293297",
+                        "description": "",
+                        "sunmmary": "How can we simplify the question and extract all HTML links to display them separately?",
+                        "one_line_summary": "Machine learning is a field that combines computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293297/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293298,
+                        "name": "Assignment Name: Basic Programming Terminology and Notations Submission",
+                        "created_at": "2023-12-24T21:35:51Z",
+                        "due_at": "2024-02-23T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293298",
+                        "description": "",
+                        "sunmmary": "How can we simplify the question and extract HTML links from text to display them separately?",
+                        "one_line_summary": "Machine learning is the process of using computer science and mathematical principles to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293298/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293299,
+                        "name": "Assignment Name: Basic Terminology and Notations Assignment",
+                        "created_at": "2023-12-24T21:35:51Z",
+                        "due_at": "2024-02-28T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293299",
+                        "description": "",
+                        "sunmmary": "How can we simplify the process of extracting all html links from a text and displaying them separately?",
+                        "one_line_summary": "Machine learning is the interdisciplinary field of computer science and mathematics that uses data to improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293299/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1293300,
+                        "name": "Assignment Naming Conventions",
+                        "created_at": "2023-12-24T21:35:51Z",
+                        "due_at": "2024-03-01T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293300",
+                        "description": "",
+                        "sunmmary": "How can I extract and separate all HTML links from a given text?",
+                        "one_line_summary": "Machine learning is the use of computer science, math, optimization, and statistics to learn from data and improve performance through various types such as supervised, unsupervised, semi-supervised, and reinforcement learning.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293300/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315545,
+                        "name": "Based on the provided contexts, the assignment does not have a specific name mentioned. It likely involves working on programming assignments related to object recognition using Python, submitting code snippets and a report on how machine learning techniques were applied.",
+                        "created_at": "2024-01-08T07:07:14Z",
+                        "due_at": "2024-03-06T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315545",
+                        "description": null,
+                        "sunmmary": "Can you rephrase the question to be simpler and extract all html links to display them separately?",
+                        "one_line_summary": "The type of prediction problem where there are no known target values or targets to predict.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315545/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1315555,
+                        "name": "The assignment may be named \"Object Recognition with Machine Learning Techniques: Introduction to Basic Terminology and Notations\".",
+                        "created_at": "2024-01-08T07:14:33Z",
+                        "due_at": "2024-01-27T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315555",
+                        "description": null,
+                        "sunmmary": "How can we extract all HTML links from a source code in Python for object recognition in machine translation programming assignments?",
+                        "one_line_summary": "No target values to predict.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315555/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1315556,
+                        "name": "Possible assignment names could be:\n- \"Object Recognition using Machine Learning Techniques\"\n- \"Introduction to Basic Terminology and Notations in Object Recognition\"\n- \"Implementing Object Recognition Algorithms in Python\"",
+                        "created_at": "2024-01-08T07:14:53Z",
+                        "due_at": "2024-02-07T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315556",
+                        "description": null,
+                        "sunmmary": "Please rephrase the question in a simpler manner and extract all HTML links to show separately.",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315556/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1293329,
+                        "name": "Name: Introduction to Basic Terminology and Notations Programming Assignment",
+                        "created_at": "2023-12-24T21:35:59Z",
+                        "due_at": "2024-02-03T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293329",
+                        "description": "",
+                        "sunmmary": "How can we extract all HTML links from a given source code and display them separately?",
+                        "one_line_summary": "Machine learning involves using computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293329/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1293331,
+                        "name": "Programming Assignment 5 - Machine Learning Techniques Application",
+                        "created_at": "2023-12-24T21:35:59Z",
+                        "due_at": "2024-02-27T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293331",
+                        "description": "",
+                        "sunmmary": "How can we extract all HTML links from a given text and display them separately?",
+                        "one_line_summary": "Machine learning is the process of using computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293331/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1293330,
+                        "name": "The assignment can be named \"Introduction to Basic Terminology and Notations in Python Programming\"",
+                        "created_at": "2023-12-24T21:35:59Z",
+                        "due_at": "2024-02-03T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293330",
+                        "description": "",
+                        "sunmmary": "How can I extract and display all HTML links from a given text?",
+                        "one_line_summary": "Machine learning involves using computer science and math to learn from data and improve performance, utilizing techniques such as supervised, unsupervised, semi-supervised, and reinforcement learning.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293330/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1293332,
+                        "name": "Assignment Name: Basic ML Techniques Implementation",
+                        "created_at": "2023-12-24T21:35:59Z",
+                        "due_at": "2024-03-02T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293332",
+                        "description": "",
+                        "sunmmary": "How can I extract and display all HTML links separately from a given text?",
+                        "one_line_summary": "Machine learning is the use of computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293332/submissions?zip=1",
+                        "points_possible": 10.0
+                    },
+                    {
+                        "id": 1293309,
+                        "name": "Assignment Name: Introduction to Basic Terminology and Notations",
+                        "created_at": "2023-12-24T21:35:54Z",
+                        "due_at": "2024-02-08T20:30:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293309",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links from a webpage and display them separately?",
+                        "one_line_summary": "Machine learning is a computational approach that uses computer science, math, and statistics to learn from data and improve performance through supervised, unsupervised, semi-supervised, and reinforcement learning techniques.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293309/submissions?zip=1",
+                        "points_possible": 77.0
+                    },
+                    {
+                        "id": 1317630,
+                        "name": "Introduction to Object Recognition with Machine Learning Techniques",
+                        "created_at": "2024-01-09T03:25:45Z",
+                        "due_at": "2024-01-12T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1317630",
+                        "description": null,
+                        "sunmmary": "What is the objective of programming assignments 5 in Machine Translation?  Can you provide relevant code snippets and a report in Python source code to demonstrate the application of ML techniques for object recognition?",
+                        "one_line_summary": "None represents absence of value or target in a prediction problem.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1317630/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1293340,
+                        "name": "The assignment could be named \"Pair Programming Reflection: 'All I Really Need to Know about Pair Programming I Learned in Kindergarten'\".",
+                        "created_at": "2023-12-24T21:36:01Z",
+                        "due_at": "2024-01-16T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293340",
+                        "description": "<p>Read by 1/16/24: <a class=\"inline_disabled\" title=\"Link\" href=\"https://collaboration.csc.ncsu.edu/laurie/Papers/Kindergarten.PDF\" target=\"_blank\">\u201cAll I Really Need to Know about Pair Programming I Learned in Kindergarten\u201d</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Can you provide me with the link to the paper \"All I Really Need to Know about Pair Programming I Learned in Kindergarten\" that should be read by 1/16/24?<br><br>HTML Links:<br>1. Link to the paper: https://collaboration.csc.ncsu.edu/laurie/Papers/Kindergarten.PDF<br><br>2. Link to Canvas mobile script: https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js",
+                        "one_line_summary": "Summary: The paper \"All I Really Need to Know about Pair Programming I Learned in Kindergarten\" will be read by 1/16/24.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1293340/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1315560,
+                        "name": "\"Introduction to Object Recognition with Python Source Code - Assignment 5\"",
+                        "created_at": "2024-01-08T07:18:38Z",
+                        "due_at": "2024-01-11T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315560",
+                        "description": null,
+                        "sunmmary": "Could you please simplify the question and extract all HTML links to display separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315560/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315561,
+                        "name": "Based on the provided contexts, the assignment can be named \"Object Recognition using Machine Learning Techniques: A Report on Basic Terminology and Notations\".",
+                        "created_at": "2024-01-08T07:19:05Z",
+                        "due_at": "2024-01-16T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315561",
+                        "description": null,
+                        "sunmmary": "Extract all HTML links and display them separately.",
+                        "one_line_summary": "Unsupervised learning involves finding patterns or explaining features in data without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315561/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315562,
+                        "name": "Programming Assignment: Object Recognition with Machine Learning",
+                        "created_at": "2024-01-08T07:19:13Z",
+                        "due_at": "2024-01-18T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315562",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and separate all HTML links into a list?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315562/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315563,
+                        "name": "The given assignment does not have a specific name mentioned in the provided contexts, so it can be referred to as simply \"Programming Assignment 5 - Source Code Submission for Object Recognition\".",
+                        "created_at": "2024-01-08T07:19:17Z",
+                        "due_at": "2024-01-23T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315563",
+                        "description": null,
+                        "sunmmary": "Can you reword the question to make it easier and then extract any HTML links and display them separately?",
+                        "one_line_summary": "Unsupervised learning involves prediction problems with no known target values, focusing on discovering patterns or explaining features in the data.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315563/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315564,
+                        "name": "The name of the assignment is not provided in the given context. It can be assumed that the assignment may be related to programming assignments or source code in Python focusing on object recognition and basic terminology and notations in machine learning.",
+                        "created_at": "2024-01-08T07:19:23Z",
+                        "due_at": "2024-01-25T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315564",
+                        "description": null,
+                        "sunmmary": "How can I simplify the question and extract all HTML links to display them separately?",
+                        "one_line_summary": "Unsupervised learning involves finding patterns in data without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315564/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315565,
+                        "name": "The assignment does not have a specific name mentioned in the context provided. It seems to be related to programming assignments focused on source code in Python, specifically on applying machine learning techniques for object recognition. The main objective is to learn basic terminology and notations in the context of this assignment.",
+                        "created_at": "2024-01-08T07:19:28Z",
+                        "due_at": "2024-01-30T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315565",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and provide the HTML links separately?",
+                        "one_line_summary": "Unsupervised learning involves finding patterns or explaining features in data without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315565/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315566,
+                        "name": "The name of the assignment could be \"Object Recognition Using Machine Learning Techniques: Introduction to Basic Terminology and Notations\".",
+                        "created_at": "2024-01-08T07:19:32Z",
+                        "due_at": "2024-02-01T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315566",
+                        "description": null,
+                        "sunmmary": "Could you simplify the question and extract all HTML links to display separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns and trends without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315566/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315568,
+                        "name": "Based on the given contexts, the name for this assignment could be \"Basic Object Recognition with Machine Learning Techniques.\"",
+                        "created_at": "2024-01-08T07:19:38Z",
+                        "due_at": "2024-02-13T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315568",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and extract all the HTML links to be displayed separately?",
+                        "one_line_summary": "No known target values in unsupervised learning prediction problems.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315568/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315569,
+                        "name": "The given assignment could be called \"Object Recognition with Machine Learning Techniques\" or \"Introduction to Basic Terminology and Notations in Object Recognition\".",
+                        "created_at": "2024-01-08T07:19:42Z",
+                        "due_at": "2024-02-15T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315569",
+                        "description": null,
+                        "sunmmary": "How can we simplify the question and extract all HTML links to display them separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315569/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315570,
+                        "name": "Assignment 5: Object Recognition with Python Machine Learning Techniques",
+                        "created_at": "2024-01-08T07:19:46Z",
+                        "due_at": "2024-02-20T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315570",
+                        "description": null,
+                        "sunmmary": "Please rephrase the request to extract all HTML links and display them separately.",
+                        "one_line_summary": "The types of prediction problems in machine learning include supervised learning, unsupervised learning, and programming assignments in Python.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315570/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315571,
+                        "name": "Object Recognition using Machine Learning",
+                        "created_at": "2024-01-08T07:19:53Z",
+                        "due_at": "2024-02-22T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315571",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and extract all the HTML links separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315571/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315572,
+                        "name": "Based on the provided contexts, the assignment could potentially be named \"Introduction to Object Recognition Using Machine Learning Techniques\".",
+                        "created_at": "2024-01-08T07:19:57Z",
+                        "due_at": "2024-02-27T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315572",
+                        "description": null,
+                        "sunmmary": "Please simplify the question and extract all HTML links to display separately.",
+                        "one_line_summary": "The objective of the query is to provide a one-line summary for the programming assignment which involves submitting relevant code snippets in Python related to applying machine learning techniques.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315572/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315573,
+                        "name": "Intro to Object Recognition with Machine Learning Techniques",
+                        "created_at": "2024-01-08T07:20:00Z",
+                        "due_at": "2024-02-29T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315573",
+                        "description": null,
+                        "sunmmary": "How can we simplify the question and extract all HTML links to display separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315573/submissions?zip=1",
+                        "points_possible": 1.0
+                    },
+                    {
+                        "id": 1315574,
+                        "name": "The assignment can be named \"Object Recognition Using Machine Learning Techniques: An Introduction to Basic Terminology and Notations\"",
+                        "created_at": "2024-01-08T07:20:09Z",
+                        "due_at": "2024-03-05T19:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315574",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and provide all HTML links separately?",
+                        "one_line_summary": "None refers to a prediction problem where there are no known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60908/assignments/1315574/submissions?zip=1",
+                        "points_possible": 1.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 58458,
+            "name": "CS271P",
+            "assignments": {
+                "pending": [],
+                "completed": [
+                    {
+                        "id": 1251190,
+                        "name": "The assignment can be named \"Academic Integrity Question and Problem Solving Questions.\"",
+                        "created_at": "2023-09-28T01:32:20Z",
+                        "due_at": "2023-12-04T05:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251190",
+                        "description": "<p><span>1 academic integrity question, 5 problem solving questions.</span></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "How many academic integrity questions and problem-solving questions are there in the assignment? <br><br>HTML links extracted:<br>1. Canvas: https://canvas.eee.uci.edu/courses/51437<br>2. Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus<br>3. Ed Discussion (link available via Canvas)",
+                        "one_line_summary": "Students are allowed to collaborate on assignments but must code and write them independently, with a late homework policy allowing for 3 total late days and a 25% credit penalty for each additional late day, while submission requires two files (solution.zip and exercises.pdf) to be handed in via Gradescope.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296097/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251192,
+                        "name": "The assignment can be named \"Academic Integrity and Problem-Solving Exercise\".",
+                        "created_at": "2023-09-28T01:32:21Z",
+                        "due_at": "2023-11-13T05:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251192",
+                        "description": "<p><span>1 academic integrity question, 4 problem-solving questions. </span></p>\n<p>&nbsp;</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: \"There is 1 academic integrity question and 4 problem-solving questions.\"<br><br>HTML links extracted:<br>1. https://canvas.eee.uci.edu/courses/51437<br>2. https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "The assignment includes 1 academic integrity question and 4 problem-solving questions.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296099/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251195,
+                        "name": "Assignment Name: Reinforcement Learning Mastery Quiz",
+                        "created_at": "2023-09-28T01:32:23Z",
+                        "due_at": "2023-12-11T05:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251195",
+                        "description": "<p><span>1 academic integrity question, 1 questions on Value Iteration, 1 question on Policy Iteration, 1 question on Temporal Difference Learning, 2 MC sampling questions, 4 T/F questions.</span></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "How many academic integrity questions, questions on Value Iteration,  Policy Iteration, Temporal Difference Learning, MC sampling questions, and true/false questions are there in total? <br><br>HTML Links:<br>- https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js",
+                        "one_line_summary": "The grading policy includes academic integrity, questions on Value Iteration, Policy Iteration, Temporal Difference Learning, MC sampling, and True/False questions.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296102/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251194,
+                        "name": "The assignment could be named \"Academic Integrity and Problem Solving Assignment\".",
+                        "created_at": "2023-09-28T01:32:23Z",
+                        "due_at": "2023-11-06T05:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251194",
+                        "description": "<p><span>There is 1 academic integrity question, 4 problem solving sections and 1 T/F section.</span></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "How many academic integrity questions, problem solving sections, and true/false sections are there in the assignment? <br><br>HTML links:<br>- Canvas: https://canvas.eee.uci.edu/courses/51437<br>- Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus<br>- Ed Discussion: (link available via Canvas)",
+                        "one_line_summary": "The assignment consists of 1 academic integrity question, 4 problem-solving sections, and 1 true/false section.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296101/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251196,
+                        "name": "The assignment can be named \"Academic Integrity in Artificial Intelligence Algorithms\"",
+                        "created_at": "2023-09-28T01:32:24Z",
+                        "due_at": "2023-10-16T04:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251196",
+                        "description": "<p><span>1 Academic integrity question, 5 question groups - Admissibility, Consistency, A*, Hill-Climbing, True/False.</span></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrase the question:<br><br>How many academic integrity questions are there, and what are the 5 question groups?<br><br>Extracted HTML links:<br>1. Canvas: https://canvas.eee.uci.edu/courses/51437<br>2. Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus<br>3. Discussion: Ed Discussion (link available via Canvas)",
+                        "one_line_summary": "The assignment consists of an academic integrity question and five question groups covering Admissibility, Consistency, A*, Hill-Climbing, and True/False.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296103/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251184,
+                        "name": "Assignment Name: Academic Integrity Exam",
+                        "created_at": "2023-09-28T01:32:15Z",
+                        "due_at": "2023-10-09T04:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251184",
+                        "description": "<p>1 Academic integrity question, 5 question groups - BFS, DFS, IDS, UCS, True/False.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "1. How many question groups are there in the academic integrity test and what are their topics?<br>  <br>  HTML Links:<br>  - Canvas: https://canvas.eee.uci.edu/courses/51437<br>  - Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus<br>  - JavaScript file: https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js",
+                        "one_line_summary": "The 5 question groups cover different search algorithms (BFS, DFS, IDS, UCS) and True/False statements, with emphasis on academic integrity.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296090/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251185,
+                        "name": "Assignment Name: Quiz on Problem Solving Techniques in Python",
+                        "created_at": "2023-09-28T01:32:16Z",
+                        "due_at": "2023-10-30T04:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251185",
+                        "description": "<p>Please read the following instructions:</p>\n<p>1) This Quiz has 7 parts - 1 academic integrity, 5 problem solving (FC, AC, MRV, DH, LCV), 1 T/F.</p>\n<p>2) In Multiple Answer type Questions, points are deducted for each incorrect answer (but not negative).&nbsp;</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Please read the following instructions:<br>1) This Quiz has 7 parts - 1 academic integrity, 5 problem solving (FC, AC, MRV, DH, LCV), 1 T/F.<br>2) In Multiple Answer type Questions, points are deducted for each incorrect answer (but not negative). <br><br>HTML links:<br>1) Canvas:  https://canvas.eee.uci.edu/courses/51437<br>2) Syllabus:  https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "Late homework policy allows up to 3 total late days with 25% credit deduction per day after, assignments due by 11:59:59 PM Pacific Time, submissions in solution.zip and exercises.pdf via Gradescope, attendance to lectures/lab sessions mandatory, participation in polls, course evaluations, and discussions on Ed Discussion encouraged.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296091/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251193,
+                        "name": "The assignment can be named as \"Academic Integrity and Problem Solving Assessment\".",
+                        "created_at": "2023-09-28T01:32:22Z",
+                        "due_at": "2023-10-23T04:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251193",
+                        "description": "<p><span>1 academic integrity, 4 problem solving questions, 5 T/F questions</span></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "How many academic integrity questions are there, how many problem solving questions are there, and how many true/false questions are there? <br><br>HTML links extracted:<br>1. https://canvas.eee.uci.edu/courses/51437<br>2. https://canvas.eee.uci.edu/courses/51437/assignments/syllabus<br>3. https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js",
+                        "one_line_summary": "The summary for the query is: You are allowed to collaborate on assignments with others, but must code and write them up independently, with specific late submission policy and format requirements.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296100/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251189,
+                        "name": "Assignment 3: Probability and Bayesian Networks",
+                        "created_at": "2023-09-28T01:32:19Z",
+                        "due_at": "2023-11-20T05:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251189",
+                        "description": "<p>1 academic integrity question, 2 questions based on Full Joint Distribution Table, 4 Bayesian network questions, 4 T/F questions.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "How many academic integrity questions, questions based on the Full Joint Distribution Table, Bayesian network questions, and true/false questions are on the assignment? <br><br>Html Links: <br>1. Canvas: https://canvas.eee.uci.edu/courses/51437<br>2. Syllabus: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "Summary: The assignment includes academic integrity, questions on Full Joint Distribution Table, Bayesian network, and True/False questions.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296096/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1251199,
+                        "name": "The assignment could be named \"Project Team Formation and Submission.\"",
+                        "created_at": "2023-09-28T01:32:30Z",
+                        "due_at": "2023-10-30T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251199",
+                        "description": "<p>Please form project teams (of 3 students) and submit your team information.&nbsp;</p>\n<p><span style=\"color: #ff0000;\">Note:</span></p>\n<p><span style=\"color: #ff0000;\">1) This is a group assignment. FIRST, each team should add members to a group - click on People, and under a Project Teams tab, pick an empty group and add all 3 members to the group). Initially there are 75 empty groups; find an empty group and add all team members to it.<br></span></p>\n<p><span style=\"color: #ff0000;\">2) When submitting the assignment, only one member needs to submit the assignment (for the entire team). All team members will receive the same score.</span></p>\n<p>&nbsp;</p>\n<p><span><strong>The submission is a text entry. Please submit group number followed by names of team members, one per line (see below). If the team has 2 members, omit the last line.<br></strong></span></p>\n<p>&nbsp;</p>\n<p><strong><span>group number</span></strong></p>\n<p><strong><span>member1_Last_Name, </span></strong><strong><span>member1_First_Name, member1_</span></strong><strong><span>netID, member1_UCID#</span></strong></p>\n<p><strong><span>member2_Last_Name, member2_First_Name, member2_netID, member2_UCID#</span></strong></p>\n<p><strong><span>member3_Last_Name, member3_First_Name, member3_netID, member3_UCID#</span></strong></p>\n<p>&nbsp;</p>\n<p><em>Example:</em></p>\n<p><em>5</em></p>\n<p>Doe, Jane, djane, 12345678</p>\n<p>Doe, John, djohn, 87654321</p>\n<p>Doe, Bob, dbob, 98765432</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: Please create project teams with 3 students each and submit your team information.<br><br>Extracted HTML links:<br>- https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js",
+                        "one_line_summary": "Form project teams of 3 students and submit team information in the specified format.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251199/submissions?zip=1",
+                        "points_possible": 5.0
+                    },
+                    {
+                        "id": 1251197,
+                        "name": "The assignment should be named \"Project Draft Report Upload\". Each team is required to upload their draft design document (4-10 pages, excluding title, references, appendix page(s)) as a PDF. Only one submission is allowed per team. Additional guidance can be found in the guidelines document linked <a href=\"https://canvas.eee.uci.edu/courses/58458/files/24519094?verifier=Y4D2c9Vld3vzQE2F5QydXlT6DVb7MIyYboYyXY9k&amp;wrap=1\" target=\"_blank\">here</a>.",
+                        "created_at": "2023-09-28T01:32:29Z",
+                        "due_at": "2023-11-20T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251197",
+                        "description": "<p>Upload your draft design document (pdf) - 4-10 pages, excluding title, references, appendix page(s). One submission per team.</p>\n<p>The guidelines doc is <a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Project Draft Report Guide.pdf\" href=\"https://canvas.eee.uci.edu/courses/58458/files/24519094?verifier=Y4D2c9Vld3vzQE2F5QydXlT6DVb7MIyYboYyXY9k&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/58458/files/24519094\" data-api-returntype=\"File\">here</a>.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: Submit your draft design document (pdf) with a length of 4-10 pages, excluding title, references, and appendix page(s). Each team should submit only one document.<br><br>HTML links extracted:<br>1. https://canvas.eee.uci.edu/courses/58458/files/24519094?verifier=Y4D2c9Vld3vzQE2F5QydXlT6DVb7MIyYboYyXY9k&wrap=1 - Project Draft Report Guide.pdf",
+                        "one_line_summary": "Create a draft design document (pdf) following the guidelines provided with one submission per team.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251197/submissions?zip=1",
+                        "points_possible": 5.0
+                    },
+                    {
+                        "id": 1251198,
+                        "name": "The name of this assignment is \"Project Final Report Submission.\"",
+                        "created_at": "2023-09-28T01:32:30Z",
+                        "due_at": "2023-12-15T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251198",
+                        "description": "<p>Submit written final report. Guidelines are <a class=\"instructure_file_link instructure_scribd_file inline_disabled\" title=\"Project Final Report Guide.pdf\" href=\"https://canvas.eee.uci.edu/courses/58458/files/24842094?verifier=GvUy9pqesYsGVlVh4ULWKCTwQgroAdWFkvKpUJrf&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/58458/files/24842094\" data-api-returntype=\"File\">here</a>.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: Where can you find the guidelines for submitting the written final report? <br><br>HTML Links extracted:<br>1. Project Final Report Guide.pdf -  https://canvas.eee.uci.edu/courses/58458/files/24842094?verifier=GvUy9pqesYsGVlVh4ULWKCTwQgroAdWFkvKpUJrf&amp;wrap=1",
+                        "one_line_summary": "The guidelines for submitting the written final report for the project can be found in the file \"Project Final Report Guide.pdf\" at the following link: https://canvas.eee.uci.edu/courses/58458/files/24842094",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251198/submissions?zip=1",
+                        "points_possible": 15.0
+                    },
+                    {
+                        "id": 1251200,
+                        "name": "Assignment Name: Basic Python Programming Exercises",
+                        "created_at": "2023-09-28T01:32:30Z",
+                        "due_at": "2023-12-15T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251200",
+                        "description": "",
+                        "sunmmary": "How can I modify the code to extract and display all HTML links separately?",
+                        "one_line_summary": "Machine learning is a field that combines computer science and math to improve performance by learning from data.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251200/submissions?zip=1",
+                        "points_possible": 0.0
+                    },
+                    {
+                        "id": 1251187,
+                        "name": "Assignment Name: Participation and Course Evaluation Check\u4efb\u52a1\u540d\u79f0\uff1a\u53c2\u4e0e\u5ea6\u548c\u8bfe\u7a0b\u8bc4\u4f30\u68c0\u67e5",
+                        "created_at": "2023-09-28T01:32:17Z",
+                        "due_at": "2023-12-16T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251187",
+                        "description": "<p>For the participation assignment, you need to</p>\n<p>1) Fill out the poll <a class=\"inline_disabled\" title=\"Link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSeKyF6FGtOgJbDK2_YlBacNeLTfvNJQG0ueYDiZzMGaBeQHdA/viewform?usp=sf_link__;!!CzAuKJ42GuquVTTmVmPViYEvSg!NZVkckHKQEFu4fcSdc2XorUOwywgrGXzxjUHwL-ZhwY7uz1uJCbdewC_V_s22JYyJPBpJMJ9bHFuLQ$\" target=\"_blank\">here</a>(you need to be logged in with UCI id)</p>\n<p>2) Fill out a course evaluation. You should have received several emails about the course evaluation. Please note that the course evaluation closes on Sunday at the end of week 10. Once it closes I cannot reopen it.</p>\n<p>In this assignment there are two questions, asking if you did 1 and 2.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: What is required for the participation assignment?<br>HTML links extracted:<br>1) Poll link: https://docs.google.com/forms/d/e/1FAIpQLSeKyF6FGtOgJbDK2_YlBacNeLTfvNJQG0ueYDiZzMGaBeQHdA/viewform?usp=sf_link__;!!CzAuKJ42GuquVTTmVmPViYEvSg!NZVkckHKQEFu4fcSdc2XorUOwywgrGXzxjUHwL-ZhwY7uz1uJCbdewC_V_s22JYyJPBpJMJ9bHFuLQ$<br>2) Syllabus link: https://canvas.eee.uci.edu/courses/51437/assignments/syllabus",
+                        "one_line_summary": "For the participation assignment, you need to fill out a poll and a course evaluation.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296094/submissions?zip=1",
+                        "points_possible": 10.0
+                    },
+                    {
+                        "id": 1251188,
+                        "name": "Assignment name: Machine Learning and Data Mining Assignment 1",
+                        "created_at": "2023-09-28T01:32:18Z",
+                        "due_at": "2023-12-15T02:00:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/58458/assignments/1251188",
+                        "description": "<p>1 Academic integrity question, and one question each on CSPs, Heuristic Search, Games, Bayesian Network probability, Bayesian Network independence, Machine Learning under/over-fitting, Machine Learning Decision Trees.</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Can you simplify the question to ask about academic integrity and various topics in Machine Learning? <br><br>HTML links: <br>- <p>1 Academic integrity question, and one question each on CSPs, Heuristic Search, Games, Bayesian Network probability, Bayesian Network independence, Machine Learning under/over-fitting, Machine Learning Decision Trees.</p><br>- <script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "one_line_summary": "Summary: The query is asking for one academic integrity question, as well as questions on CSPs, Heuristic Search, Games, Bayesian Network probability, Bayesian Network independence, Machine Learning under/over-fitting, and Machine Learning Decision Trees.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/58458/quizzes/296095/submissions?zip=1",
+                        "points_possible": 100.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 60802,
+            "name": "CS273P: Machine Learning",
+            "assignments": {
+                "pending": [
+                    {
+                        "id": 1313478,
+                        "name": "Assignment Name: HW5-1",
+                        "created_at": "2024-01-07T18:25:42Z",
+                        "due_at": "2024-03-16T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313478",
+                        "description": "<p><a class=\"instructure_file_link inline_disabled\" title=\"HW5-1.zip\" href=\"https://canvas.eee.uci.edu/courses/60802/files/25811943?verifier=bnTP3BO6XC5Q6qIwkY0geU4r2Rtp0jckYCxaIrxk&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/60802/files/25811943\" data-api-returntype=\"File\">HW5-1.zip</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: How can I extract all html links from the given text and show them separately?<br><br>HTML links:<br>1. HW5-1.zip: https://canvas.eee.uci.edu/courses/60802/files/25811943?verifier=bnTP3BO6XC5Q6qIwkY0geU4r2Rtp0jckYCxaIrxk&amp;wrap=1",
+                        "one_line_summary": "Summary: Homework 5.1 submission in zip file format.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313478/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1313481,
+                        "name": "The name of the assignment could be \"Final Project Report Submission.\"",
+                        "created_at": "2024-01-07T18:25:43Z",
+                        "due_at": "2024-03-23T06:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313481",
+                        "description": "<p><span>We ask you to submit a final report for your final project.&nbsp; Here are some instructions on the final report:</span></p>\n<p><span>1. Your team will produce a single write-up document in PDF,</span><span>&nbsp;</span><strong>approximately 4 pages long.&nbsp; &nbsp;</strong> &nbsp;</p>\n<p>2. In the last paragraph of the report, please write down the names of your team members and contributions from each member.&nbsp; &nbsp;If you work solo, please state so.</p>\n<p>3. In the report, please<span> describe the problem you chose and the methods you used to address it, including which model(s) you tried, how you trained them, how you selected any parameters they might require, and how they performed on the test data. Consider including tables of performance of different approaches, or plots of performance used to perform model selection (i.e., parameters that control complexity). Within your document, please try to describe to the best of your ability who was responsible for which aspects (which learners, etc.), and how the team as a whole put the ideas together.</span></p>\n<p><span>4. The report should be written like a typical conference paper. Do not simply copy/paste your code or results from your terminals.&nbsp; Try to organize it and present it in a neat and coherent format in terms of tables and figures.&nbsp;</span></p>\n<p><span>5.&nbsp; There is no presentation for your final project. We will grade it solely based on your report.&nbsp;</span></p>\n<p>6. The report should be submitted to gradescope.&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: What are the instructions for the final report submission for the final project?<br><br>HTML links:<br>- https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js",
+                        "one_line_summary": "Teams of 2-3 are required to submit a 4-page PDF report on their final project, detailing the chosen problem, methods used, model performance, and individual contributions.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313481/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1324006,
+                        "name": "The assignment could be named \"Object Recognition Using Machine Learning Techniques - Introduction to Basic Terminology and Notations\"",
+                        "created_at": "2024-01-24T18:13:11Z",
+                        "due_at": "2024-03-09T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1324006",
+                        "description": null,
+                        "sunmmary": "Can you simplify the question and extract all HTML links to display them separately?",
+                        "one_line_summary": "Unsupervised learning involves predicting patterns or explaining features in data without known target values.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/312468/submissions?zip=1",
+                        "points_possible": 7.0
+                    }
+                ],
+                "completed": [
+                    {
+                        "id": 1313474,
+                        "name": "The assignment can be named \"Homework 1\" or \"HW1.\"",
+                        "created_at": "2024-01-07T18:25:41Z",
+                        "due_at": "2024-01-22T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313474",
+                        "description": "<p>Please download the follwoing zip file and read through the PDF inside it carefully.</p>\n<p>Two things to submit:</p>\n<p>a) submit your source codes as a zip file to Canvas.</p>\n<p>b) submit your pdf report (generated by jupyter notebook) to Gradescope.</p>\n<p>Don't forget to include \"Statement of Collaboration\" in your final report. :)</p>\n<p>&nbsp;</p>\n<p><a class=\"instructure_file_link inline_disabled\" title=\"hw1.zip\" href=\"https://canvas.eee.uci.edu/courses/60802/files/25146530?verifier=cyEZKRNrm0UdnNZl8Ujz6xv6mcz9HZYBGhURYYag&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/60802/files/25146530\" data-api-returntype=\"File\">hw1.zip&nbsp;</a></p>\n<p><a class=\"inline_disabled\" href=\"https://colab.research.google.com/drive/1rXCg0CCLckIdl-zt-d3lg0frptsh5GsQ?usp=sharing\" target=\"_blank\">Colab link</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Please download the following zip file from Canvas and read through the PDF inside it carefully.<br><br>Two things to submit:<br>a) Submit your source codes as a zip file to Canvas.<br>b) Submit your PDF report (generated by Jupyter Notebook) to Gradescope.<br><br>Don't forget to include \"Statement of Collaboration\" in your final report. :)<br><br>HTML Links:<br>- Canvas: [https://canvas.eee.uci.edu/courses/60802/files/25146530?verifier=cyEZKRNrm0UdnNZl8Ujz6xv6mcz9HZYBGhURYYag&wrap=1](https://canvas.eee.uci.edu/courses/60802/files/25146530?verifier=cyEZKRNrm0UdnNZl8Ujz6xv6mcz9HZYBGhURYYag&wrap=1)<br>- Colab link: [https://colab.research.google.com/drive/1rXCg0CCLckIdl-zt-d3lg0frptsh5GsQ?usp=sharing](https://colab.research.google.com/drive/1rXCg0CCLckIdl-zt-d3lg0frptsh5GsQ?usp=sharing)",
+                        "one_line_summary": "Summary: Download the hw1.zip file from Canvas, submit the source codes as a zip file to Canvas, and submit the PDF report to Gradescope. Also include \"Statement of Collaboration\" in the final report.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313474/submissions?zip=1",
+                        "points_possible": 110.0
+                    },
+                    {
+                        "id": 1313475,
+                        "name": "The assignment can be named \"Assignment 2-1\" since that is the name of the zip file provided for download. The submission requirements are to submit the source code as a zip file to Canvas and submit the pdf report generated by Jupyter notebook to Gradescope. Make sure to include the \"Statement of Collaboration\" in your final report as well.",
+                        "created_at": "2024-01-07T18:25:41Z",
+                        "due_at": "2024-02-01T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313475",
+                        "description": "<p>Please download the follwoing zip file and read through the PDF inside it carefully.</p>\n<p>Two things to submit:</p>\n<p>a) submit your source codes as a zip file to Canvas.</p>\n<p>b) submit your pdf report (generated by jupyter notebook) to Gradescope.</p>\n<p>Don't forget to include \"Statement of Collaboration\" in your final report. :)</p>\n<p><a class=\"instructure_file_link inline_disabled\" title=\"Assignment 2-1.zip\" href=\"https://canvas.eee.uci.edu/courses/60802/files/25298625?verifier=8s3Fvo8UFytDMB9AJUJDYFquEp2N3uSzTHpRTF7o&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/60802/files/25298625\" data-api-returntype=\"File\">Assignment 2-1.zip</a></p>\n<p>&nbsp;</p>\n<p>Please also download the following zip file.</p>\n<p><a class=\"inline_disabled\" href=\"https://canvas.eee.uci.edu/courses/60802/files/25087092/download?verifier=jFDkYzFYywhSUtBEcVIRVhpdHXjj1FJZzKaLcN7a\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/60802/files/25087092\" data-api-returntype=\"File\">mltools.zip</a></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Please download the following zip file and carefully read through the PDF inside it. <br><br>Two things to submit:<br>a) Submit your source codes as a zip file to Canvas.<br>b) Submit your PDF report (generated by Jupyter notebook) to Gradescope.<br><br>Don't forget to include \"Statement of Collaboration\" in your final report. :)<br><br>HTML Links:<br>1) Assignment 2-1.zip - [Download Link](https://canvas.eee.uci.edu/courses/60802/files/25298625?verifier=8s3Fvo8UFytDMB9AJUJDYFquEp2N3uSzTHpRTF7o&amp;wrap=1)<br>2) mltools.zip - [Download Link](https://canvas.eee.uci.edu/courses/60802/files/25087092/download?verifier=jFDkYzFYywhSUtBEcVIRVhpdHXjj1FJZzKaLcN7a)",
+                        "one_line_summary": "Download the zip file \"mltools.zip\" and submit your source codes as a zip file to Canvas and your PDF report to Gradescope.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313475/submissions?zip=1",
+                        "points_possible": 65.0
+                    },
+                    {
+                        "id": 1313476,
+                        "name": "Assignment Name: Assignment 3",
+                        "created_at": "2024-01-07T18:25:42Z",
+                        "due_at": "2024-02-08T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313476",
+                        "description": "<p><a class=\"instructure_file_link inline_disabled\" title=\"Assignment 3.zip\" href=\"https://canvas.eee.uci.edu/courses/60802/files/25392568?verifier=7Mfq103CbX7oZL4H1owUazEcXir0XPhc8qQeDMRZ&amp;wrap=1\" target=\"_blank\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/60802/files/25392568\" data-api-returntype=\"File\">Assignment 3.zip</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Rephrased question: How can I access Assignment 3.zip file for Course 60802 on Canvas?<br><br>HTML links:<br>- Assignment 3.zip: https://canvas.eee.uci.edu/courses/60802/files/25392568?verifier=7Mfq103CbX7oZL4H1owUazEcXir0XPhc8qQeDMRZ&wrap=1",
+                        "one_line_summary": "Summary: Assignment 3.zip contains a Python programming assignment that requires submitting relevant code snippets and a \"report\" showcasing ML techniques.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313476/submissions?zip=1",
+                        "points_possible": 100.0
+                    },
+                    {
+                        "id": 1313477,
+                        "name": "The name of the given assignment is HW4_2024.",
+                        "created_at": "2024-01-07T18:25:42Z",
+                        "due_at": "2024-02-28T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313477",
+                        "description": "<p>In this homework, we will focus on utilizing PyTorch to implement the MNIST classification. Please follow the homework description and notebook instructions.&nbsp;</p>\n<p>Submit the final report to gradescope and the source code to the canvas.</p>\n<p>The deadline is 21 Feb, 2024.</p>\n<p>&nbsp;</p>\n<p><a class=\"instructure_file_link inline_disabled\" title=\"HW4_2024.zip\" href=\"https://canvas.eee.uci.edu/courses/60802/files/25539584?verifier=QK0xSSQRnGntNrDneebnJsMdnRKs5kIPT7YcQbD8&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/60802/files/25539584\" data-api-returntype=\"File\">HW4_2024.zip</a></p><script src=\"https://instructure-uploads.s3.amazonaws.com/account_44070000000000001/attachments/23788140/canvas_mobile.js\"></script>",
+                        "sunmmary": "Please extract all HTML links and show them separately. <br><br>HTML link:<br>- <a class=\"instructure_file_link inline_disabled\" title=\"HW4_2024.zip\" href=\"https://canvas.eee.uci.edu/courses/60802/files/25539584?verifier=QK0xSSQRnGntNrDneebnJsMdnRKs5kIPT7YcQbD8&amp;wrap=1\" target=\"_blank\" data-canvas-previewable=\"false\" data-api-endpoint=\"https://canvas.eee.uci.edu/api/v1/courses/60802/files/25539584\" data-api-returntype=\"File\">HW4_2024.zip</a>",
+                        "one_line_summary": "In this homework, students will implement MNIST classification using PyTorch and submit the final report to gradescope and the source code to canvas by the deadline of 21 Feb, 2024.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/assignments/1313477/submissions?zip=1",
+                        "points_possible": 95.0
+                    },
+                    {
+                        "id": 1324007,
+                        "name": "Assignment Naming Conventions in Python Programming",
+                        "created_at": "2024-01-24T18:13:12Z",
+                        "due_at": "2024-01-28T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1324007",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links from a webpage and display them separately?",
+                        "one_line_summary": "Machine learning is the process of using computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/312469/submissions?zip=1",
+                        "points_possible": 5.0
+                    },
+                    {
+                        "id": 1320301,
+                        "name": "Creating a Machine Learning Report using Python and ML Techniques",
+                        "created_at": "2024-01-12T05:57:30Z",
+                        "due_at": "2024-01-13T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1320301",
+                        "description": "",
+                        "sunmmary": "How can we extract HTML links from a given source code using machine translation and object recognition techniques in Python?",
+                        "one_line_summary": "Machine learning is the use of computer science and math concepts to analyze data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/311704/submissions?zip=1",
+                        "points_possible": 6.0
+                    },
+                    {
+                        "id": 1322360,
+                        "name": "Assignment Name: Basic Terminology and Notations Integration",
+                        "created_at": "2024-01-18T22:01:33Z",
+                        "due_at": "2024-01-28T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1322360",
+                        "description": "",
+                        "sunmmary": "How can I extract and separate all HTML links from a given text?",
+                        "one_line_summary": "Machine learning involves using computer science and math to learn from data and improve performance through various types such as supervised, unsupervised, semi-supervised, and reinforcement learning.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/312105/submissions?zip=1",
+                        "points_possible": 7.0
+                    },
+                    {
+                        "id": 1324004,
+                        "name": "Programming Assignment Submission Instructions",
+                        "created_at": "2024-01-24T18:13:10Z",
+                        "due_at": "2024-02-17T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1324004",
+                        "description": "",
+                        "sunmmary": "How can we extract all HTML links from a given source code in Python and display them separately?",
+                        "one_line_summary": "Machine learning is a discipline that combines computer science, math, and statistics to improve performance by learning from data.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/312466/submissions?zip=1",
+                        "points_possible": 7.0
+                    },
+                    {
+                        "id": 1324005,
+                        "name": "The assignment can be named \"Programming Assignment 5: Machine Learning Techniques Application Report\"",
+                        "created_at": "2024-01-24T18:13:11Z",
+                        "due_at": "2024-01-28T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1324005",
+                        "description": "",
+                        "sunmmary": "Can you simplify the question and extract all HTML links to display them separately?",
+                        "one_line_summary": "Machine learning is the use of computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/312467/submissions?zip=1",
+                        "points_possible": 4.0
+                    },
+                    {
+                        "id": 1323997,
+                        "name": "Assignment Name: Introduction to Basic Terminology and Notations",
+                        "created_at": "2024-01-24T18:13:03Z",
+                        "due_at": "2024-02-03T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1323997",
+                        "description": "",
+                        "sunmmary": "How can I extract HTML links from a given text and display them separately?",
+                        "one_line_summary": "Machine learning is the combination of computer science and math that allows us to learn from data to improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/312458/submissions?zip=1",
+                        "points_possible": 7.0
+                    },
+                    {
+                        "id": 1323999,
+                        "name": "Assignments Submission and Late Policy",
+                        "created_at": "2024-01-24T18:13:05Z",
+                        "due_at": "2024-02-24T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1323999",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links from a given source code and display them separately?",
+                        "one_line_summary": "Machine learning is the process of using computer science and math to analyze data and improve performance through supervised, unsupervised, semi-supervised, or reinforcement learning algorithms.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/312460/submissions?zip=1",
+                        "points_possible": 5.0
+                    },
+                    {
+                        "id": 1324003,
+                        "name": "Basic Terminology and Notations Assignment",
+                        "created_at": "2024-01-24T18:13:09Z",
+                        "due_at": "2024-03-02T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1324003",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links and display them separately from the given source code in Python for the programming assignments?",
+                        "one_line_summary": "Machine learning is the combination of computer science and math used to improve performance by learning from data.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/312464/submissions?zip=1",
+                        "points_possible": 7.0
+                    },
+                    {
+                        "id": 1327383,
+                        "name": "Basic Python Programming Assignment",
+                        "created_at": "2024-02-07T00:41:53Z",
+                        "due_at": "2024-02-08T07:59:59Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1327383",
+                        "description": "",
+                        "sunmmary": "How can we simplify the question and extract all HTML links to display them separately?",
+                        "one_line_summary": "Machine learning is the use of computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/313345/submissions?zip=1",
+                        "points_possible": 8.0
+                    },
+                    {
+                        "id": 1335619,
+                        "name": "Assignment Name: Intro to Basic Terminology and Notations",
+                        "created_at": "2024-02-26T19:46:46Z",
+                        "due_at": "2024-02-27T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1335619",
+                        "description": "",
+                        "sunmmary": "How can I extract all HTML links from a given source code in Python and display them separately?",
+                        "one_line_summary": "Machine learning is the process of using computer science and mathematical techniques to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/316017/submissions?zip=1",
+                        "points_possible": 4.0
+                    },
+                    {
+                        "id": 1328122,
+                        "name": "Assignment: Basic Terminology and Notations",
+                        "created_at": "2024-02-09T17:57:13Z",
+                        "due_at": "2024-02-13T07:59:00Z",
+                        "url": "https://canvas.eee.uci.edu/courses/60802/assignments/1328122",
+                        "description": "",
+                        "sunmmary": "How can I extract all html links from a given text and display them separately?",
+                        "one_line_summary": "Machine learning is the process of using computer science and math to learn from data and improve performance.",
+                        "submission_url": "https://canvas.eee.uci.edu/courses/60802/quizzes/313588/submissions?zip=1",
+                        "points_possible": 6.0
+                    }
+                ]
+            }
+        },
+        {
+            "id": 55444,
+            "name": "Graduate Welcome and Orientation",
+            "assignments": {
+                "pending": [],
+                "completed": []
+            }
+        },
+        {
+            "id": 58821,
+            "name": "Jatin Madan's Sandbox",
+            "assignments": {
+                "pending": [],
+                "completed": []
+            }
+        }
+    ]
+}

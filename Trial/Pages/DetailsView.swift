@@ -19,7 +19,7 @@ struct HTMLStringView: UIViewRepresentable {
         uiView.isOpaque = false
         uiView.backgroundColor = UIColor.clear
         uiView.scrollView.backgroundColor = UIColor.clear
-        uiView.loadHTMLString("#div{background-color:rgba(255,0,0,0.5);} <div>"+htmlContent+"</div>", baseURL: nil)
+        uiView.loadHTMLString("<div>"+htmlContent+"</div>", baseURL: nil)
     }
 }
 
