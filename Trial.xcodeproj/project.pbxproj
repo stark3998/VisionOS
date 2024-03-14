@@ -11,6 +11,7 @@
 		C60DEB082B8D745A00837E72 /* Page.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60DEB062B8D744B00837E72 /* Page.swift */; };
 		C60DEB0A2B8D74A300837E72 /* AssignmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60DEB092B8D74A300837E72 /* AssignmentView.swift */; };
 		C60DEB0E2B8D7A0500837E72 /* FileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C60DEB0D2B8D7A0500837E72 /* FileView.swift */; };
+		C628C05C2BA262BB00D26084 /* AssGPTView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C628C05B2BA262BB00D26084 /* AssGPTView.swift */; };
 		C63926322B97DE990087FF91 /* assignments.json in Resources */ = {isa = PBXBuildFile; fileRef = C63926302B9706FB0087FF91 /* assignments.json */; };
 		C63926332B97DE990087FF91 /* course.json in Resources */ = {isa = PBXBuildFile; fileRef = C639262E2B9706FB0087FF91 /* course.json */; };
 		C63926342B97DE990087FF91 /* file.json in Resources */ = {isa = PBXBuildFile; fileRef = C639262F2B9706FB0087FF91 /* file.json */; };
@@ -46,6 +47,7 @@
 		C60DEB062B8D744B00837E72 /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		C60DEB092B8D74A300837E72 /* AssignmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentView.swift; sourceTree = "<group>"; };
 		C60DEB0D2B8D7A0500837E72 /* FileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileView.swift; sourceTree = "<group>"; };
+		C628C05B2BA262BB00D26084 /* AssGPTView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssGPTView.swift; sourceTree = "<group>"; };
 		C639262C2B9706FB0087FF91 /* model.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = model.json; sourceTree = "<group>"; };
 		C639262D2B9706FB0087FF91 /* gpt_model.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gpt_model.json; sourceTree = "<group>"; };
 		C639262E2B9706FB0087FF91 /* course.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = course.json; sourceTree = "<group>"; };
@@ -93,9 +95,10 @@
 				C60DEB092B8D74A300837E72 /* AssignmentView.swift */,
 				C67B5E2C2B9FD5510089FAAE /* CourseView.swift */,
 				C60DEB0D2B8D7A0500837E72 /* FileView.swift */,
-				C605893B2B92A67F00D1CCBD /* DetailsView.swift */,
 				C67B5E302B9FEA3B0089FAAE /* AssignmentNewView.swift */,
 				C67B5E322BA000CC0089FAAE /* AssignDetailView.swift */,
+				C605893B2B92A67F00D1CCBD /* DetailsView.swift */,
+				C628C05B2BA262BB00D26084 /* AssGPTView.swift */,
 			);
 			path = Pages;
 			sourceTree = "<group>";
@@ -300,6 +303,7 @@
 				C6E02F2C2B4C900200A22360 /* ContentView.swift in Sources */,
 				C6E02F2A2B4C900200A22360 /* TrialApp.swift in Sources */,
 				C60DEB0A2B8D74A300837E72 /* AssignmentView.swift in Sources */,
+				C628C05C2BA262BB00D26084 /* AssGPTView.swift in Sources */,
 				C60DEB082B8D745A00837E72 /* Page.swift in Sources */,
 				C6E02F2E2B4C900200A22360 /* ImmersiveView.swift in Sources */,
 			);

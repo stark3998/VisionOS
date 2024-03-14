@@ -37,30 +37,37 @@ struct AssignmentNewView: View {
     
     @ViewBuilder func getTable(assignment: [AssignmentN], ass_type: String) -> some View {
         Text("\(ass_type) Assignments")
+//        VStack {
+//            Table(assignment) {
+//                TableColumn("Name", value: \.name!)
+//                TableColumn("Due Date", value: \.due_at!)
+//            }
+//        }.frame(
+//            minWidth: 0,
+//            maxWidth: .infinity,
+//            minHeight: 500,
+//            maxHeight: .infinity,
+//            alignment: .topLeading
+//          )
         VStack {
-            Table(assignment) {
-                TableColumn("Name", value: \.name!)
-                TableColumn("Due Date", value: \.due_at!)
+            List(assignment) { assn in
+                Button(action: {
+                    print("Text tapped for \(assn.id)")
+                }) {
+                    Text(String(assn.id) + " - " + String(assn.name!))
+                        .font(.headline)
+                        .foregroundColor(.primary).onTapGesture {
+                            openWindow(value: assn)
+                            print("Text tapped for \(assn.id)")
+                        }
+                }
             }
         }.frame(
             minWidth: 0,
             maxWidth: .infinity,
             minHeight: 500,
-            maxHeight: .infinity,
-            alignment: .topLeading
+            maxHeight: .infinity
           )
-        
-//                    Button(action: {
-//                        // Handle text tap here
-//                        //                    List(litems.assigns) { item in
-////                                openWindow(id: "Detail")
-////                        openWindow(value: course)
-//                        print("Text tapped for \(course.id)")
-//                    }) {
-//                            Text(String(course.id) + " - " + String(course.name!))
-//                                .font(.headline)
-//                                .foregroundColor(.primary)
-//                    }
     }
     
     func loadData() {

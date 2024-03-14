@@ -10,23 +10,36 @@ import SwiftUI
 @main
 struct TrialApp: App {
     @StateObject var toggleManager = ToggleManager()
+    @StateObject var ass_obj = AssignmentObject()
     @State var immersionState: ImmersionStyle = .mixed
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(ass_obj)
         }
-        
-//        WindowGroup(id: "Detail") {
-//            DetailsView(item: Item(id: 0, name: "Jatin", description: "Jatin Madan"))
-//        }
-        
-//        WindowGroup(id: "Detail1", for: Item.self) { assignment in
-//            DetailsView(item: assignment.wrappedValue!)
-//        }
+
         
         WindowGroup(id: "Assignment", for: Assignment.self) { assignment in
-            DetailsView(assignment: assignment.wrappedValue!)
+            DetailsView(assignment: assignment.wrappedValue!).environmentObject(ass_obj)
         }
+        
+        WindowGroup(id: "AssignmentNew", for: AssignmentN.self) { assignment in
+            VStack {
+                Spacer()
+                AssignDetailView(assignment: assignment.wrappedValue!).environmentObject(ass_obj)
+                Spacer()
+            }
+            
+        }
+        
+        WindowGroup(id: "AssGPT") {
+            VStack {
+                Spacer()
+                AssGPTView().environmentObject(ass_obj)
+                Spacer()
+            }
+        }
+        
+        
         
 //        .handlesExternalEvents(matching: Set(arrayLiteral: NSUserActivityTypeBrowsingWeb))
         
