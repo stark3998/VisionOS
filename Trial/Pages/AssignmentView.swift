@@ -74,7 +74,7 @@ struct AssignmentView: View {
                                         } label: {
                                             HStack {
                                                 Spacer()
-                                                Text("SHow Details")
+                                                Text("Show Details")
                                             }
                                         }
                                     } // End VStack
